@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <!-- Sen Slides Official App Icon / Logo -->
+  <rect width="512" height="512" rx="120" fill="#F6F4FB"/>
+  <g fill="#7A3EB2">
+    <!-- 3/4 Base Pie Wedge (from 0 to 270 degrees, center at 242, 270 with R=120) -->
+    <path d="M 242 270 L 362 270 A 120 120 0 1 1 242 150 L 242 270 Z" />
+    <!-- Detached Top-Right Quadrant Wedge (Offset by dx=+28, dy=-28: center at 270, 242 with R=106) -->
+    <path d="M 270 242 L 270 136 A 106 106 0 0 1 376 242 Z" />
+  </g>
+</svg>
